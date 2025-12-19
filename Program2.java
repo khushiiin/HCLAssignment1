@@ -2,6 +2,16 @@ package Assignment1;
 
 import java.util.Scanner;
 
+// Write a menu driven program in Java to perform 
+// insertion, 
+// deletion, 
+// linear search, 
+// binary search, 
+// to find maximum value,
+// to count even/ odd 
+// and to perform insertion sort operation 
+// in one dimensional array.
+
 public class Program2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -153,3 +163,4 @@ public class Program2 {
         sc.close();
     }
 }
+
