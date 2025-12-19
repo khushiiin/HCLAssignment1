@@ -2,17 +2,17 @@ package Assignment1;
 
 import java.util.Scanner;
 
-//A class sixth student required to solve basic mathematics problems. For this he/ she needs to perform 
-//operations such as 
-//addition, 
-//subtraction, 
-//multiplication, 
-//division, 
-//remainder, 
-//square, 
-//cube, 
-//and absolute.
-//Write a program using methods to perform these basic operations.
+/*A class sixth student required to solve basic mathematics problems. For this he/ she needs to perform 
+operations such as 
+addition, 
+subtraction, 
+multiplication, 
+division, 
+remainder, 
+square, 
+cube, 
+and absolute.
+Write a program using methods to perform these basic operations.*/
 
 public class Program1 {
 	public static void main(String[] args) {
@@ -67,4 +67,5 @@ public class Program1 {
 		return num1+num2;
 	}
 	
+
 }
