@@ -1,6 +1,15 @@
 package Assignment1;
 import java.util.Scanner;
 
+// Write a program to perform 
+// addition, 
+// subtraction, 
+// multiplication,
+// transpose,
+// to check square matrix,
+// to check matrix is diagonal,
+// and to check matrix is identity.
+
 public class Program3 {
 
     public static void main(String[] args) {
@@ -128,3 +137,4 @@ public class Program3 {
         }
     }
 }
+
