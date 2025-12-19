@@ -2,7 +2,7 @@ package Assignment1;
 
 import java.util.Scanner;
 
-// Differentiate String, StringBuffer and StringBuilder. Write a program to perform String related operations using length(), isEmpty(), chatAt(), toString(), equals(), compareTo(), contains(), indexOf(), lastIndexOf(), startsWith(), endsWith(), matches(), substring(), toLowerCase(), trim(), replace(), split(), join(), and valueOf().
+//Write a program to perform String related operations using length(), isEmpty(), chatAt(), toString(), equals(), compareTo(), contains(), indexOf(), lastIndexOf(), startsWith(), endsWith(), matches(), substring(), toLowerCase(), trim(), replace(), split(), join(), and valueOf().
 
 public class Program4 {
 
@@ -79,4 +79,5 @@ public class Program4 {
         sc.close();
     }
 }
+
 
